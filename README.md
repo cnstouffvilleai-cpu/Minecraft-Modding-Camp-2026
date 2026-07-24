@@ -1,8 +1,9 @@
 **HOW TO DOWNLOAD YOUR KID'S MOD**
 
 1. Click on the zip file with your kid's name
-2. Click the download icon in the top right corner
-3. Save to your downloads folder 
+2. Click the three dots in the top right corner
+3. Click download
+4. Save to your downloads folder 
 
 **HOW TO GET MCREATOR**
 
